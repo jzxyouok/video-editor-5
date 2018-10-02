@@ -1,0 +1,31 @@
+{
+  "name": "video-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gliblozhkovyi/video-editor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gliblozhkovyi/video-editor/issues"
+  },
+  "homepage": "https://github.com/gliblozhkovyi/video-editor#readme",
+  "dependencies": {
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.1.5"
+  }
+}
